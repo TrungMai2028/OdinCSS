@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 15em; 
+}
+
+.content1{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px 15em; 
+}
+
+.hanoipic{
+    width: 500px;
+}
+
+.content2{
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
